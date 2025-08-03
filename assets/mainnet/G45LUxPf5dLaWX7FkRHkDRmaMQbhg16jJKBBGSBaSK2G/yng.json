@@ -1,0 +1,13 @@
+{
+  "name": "YNG FUND",
+  "symbol": "YNG",
+  "address": "G45LUxPf5dLaWX7FkRHkDRmaMQbhg16jJKBBGSBaSK2G",
+  "decimals": 0,
+  "logoURI": "https://github.com/YNGFund/yng-fund-token/blob/main/yng.png?raw=true",
+  "tags": ["community", "utility", "meme"],
+  "extensions": {
+    "website": "https://yngfund.eu",
+    "twitter": "https://x.com/YNG_fund",
+    "description": "YNG FUND to społecznościowy token wspierający młodych twórców. Zbudowany na Solana Token 2022, z uśmiechem w okularach."
+  }
+}
